@@ -1,14 +1,5 @@
 name: 'Update schedule'
 
-# ⚠️注意：请不要在 fork 的仓库中添加 `on: schedule` 定时任务（cron）。
-# Forks 可能被大量复制并触发定时执行，当前 GitHub Actions 资源使用已接近上限，
-# 大量 fork 的定时任务可能导致工作流被禁用。若需要定时执行，请使用其它部署方式。
-#
-# ⚠️NOTICE: Do NOT add `on: schedule` cron triggers in forked repositories.
-# Forks may multiply scheduled runs and GitHub Actions resource usage is near limits.
-# Many scheduled workflows from forks can cause workflows to be disabled.
-# If scheduled execution is required, use other deployment methods.
-
 on:
   schedule:
     - cron: '0 15 * * *'      # UTC 15:00 = 北京时间 23:00
@@ -24,11 +15,11 @@ jobs:
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ env.BRANCH_NAME }}
       - name: Run with setup-python 3.13
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           update-environment: true
