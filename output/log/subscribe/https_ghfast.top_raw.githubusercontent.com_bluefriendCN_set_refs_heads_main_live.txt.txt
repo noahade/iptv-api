@@ -58,15 +58,16 @@ CETV3教育服务,
 CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 
 港澳台,#genre#
-凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
@@ -79,30 +80,33 @@ CETV4职业教育,http://183.237.71.182:40000/hls/62/index.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://cdn6.163189.xyz/163189/fct4k
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-PopC,http://bxtv.3a.ink/api.php?id=popc
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-广东体育,http://bxtv.3a.ink/api.php?id=gdty
-广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
-
-Discover,http://61.221.215.25:8800/hls/1/index.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-音乐台,http://61.221.215.25:8800/hls/58/index.m3u8
+Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
+有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
+有线综合,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合,http://rihou.cc:555/tv/[Pd]央视综合
+重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
 卫视,#genre#
 湖南卫视,http://183.237.71.182:40000/hls/19/index.m3u8
@@ -156,6 +160,8 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 广东影视,http://183.237.71.182:40000/hls/70/index.m3u8
 广东少儿,http://183.237.71.182:40000/hls/71/index.m3u8
 嘉佳卡通,http://183.237.71.182:40000/hls/72/index.m3u8
+
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=7a77481141b24cb08d7569ffb1aa3f10&time=6a34fbb4
 
 重庆,#genre#
 重庆新闻,http://27.8.41.198:4022/rtp/225.0.4.188:7980
@@ -260,7 +266,7 @@ NHK World,
 Star Sports,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226446/index.m3u8
 
 UHD,#genre#
-CCTV4K,http://223.95.198.3:8000/hls/18/index.m3u8
+CCTV4K,
 CCTV8K,
 CCTV16,
 欢笑剧场4K,
@@ -268,50 +274,4 @@ CCTV16,
 纯享4K,
 东方4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 江苏4K,http://8.138.7.223/tv/jsws4k.php
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
-
-CCTV4K,http://58.35.95.16:9898/rtp/233.18.204.188:5140
-CCTV4K,http://58.35.95.16:9898/rtp/233.18.204.204:5140
-CCTV16 4K,http://58.35.95.16:9898/rtp/233.18.204.114:5140
-CCTV16 4K,http://58.35.95.16:9898/rtp/233.18.204.215:5140
-北京卫视4K,http://58.35.95.16:9898/rtp/233.18.204.209:5140
-东方卫视4K,http://58.35.95.16:9898/rtp/233.18.204.224:5140
-广东卫视4K,http://58.35.95.16:9898/rtp/233.18.204.218:5140
-深圳卫视4K,http://58.35.95.16:9898/rtp/233.18.204.219:5140
-湖南卫视4K,http://58.35.95.16:9898/rtp/233.18.204.227:5140
-山东卫视4K,http://58.35.95.16:9898/rtp/233.18.204.228:5140
-四川卫视4K,http://58.35.95.16:9898/rtp/233.18.204.225:5140
-浙江卫视4K,http://58.35.95.16:9898/rtp/233.18.204.229:5140
-江苏卫视4K,http://58.35.95.16:9898/rtp/233.18.204.226:5140
-欢笑剧场4K,http://58.35.95.16:9898/rtp/233.18.204.115:5140
-欢笑剧场4K,http://58.35.95.16:9898/rtp/233.18.204.205:5140
-BesTV4K动画,http://58.35.95.16:9898/rtp/233.18.204.171:5140
-BesTV4K电影,http://58.35.95.16:9898/rtp/233.18.204.169:5140
-BesTV4K记录,http://58.35.95.16:9898/rtp/233.18.204.170:5140
-天翼高清4K,http://58.35.95.16:9898/rtp/233.18.204.201:5140
-四川卫视4KHD,http://58.35.95.16:9898/rtp/233.18.204.99:5140
-浙江卫视4K,http://112.255.80.180:4004/udp/239.253.242.27:8000
-湖南卫视4K,http://112.255.80.180:4004/udp/239.253.242.28:8000
-深圳卫视4K,http://112.255.80.180:4004/udp/239.253.242.61:8000
-广东卫视4K,http://112.255.80.180:4004/udp/239.253.242.108:8000
-四川卫视4K,http://112.255.80.180:4004/udp/239.253.242.123:8000
-东方卫视4K,http://112.255.80.180:4004/udp/239.253.242.176:8000
-北京卫视4K,http://112.255.80.180:4004/udp/239.253.242.200:8000
-CCTV16 4K,http://117.86.48.47:7777/rtp/239.49.0.109:8000
-北京卫视4K,http://117.86.48.47:7777/rtp/239.49.0.253:8000
-北京卫视4K,http://117.86.48.47:7777/rtp/239.49.0.42:8000
-东方卫视4K,http://117.86.48.47:7777/rtp/239.49.1.70:8000
-东方卫视4K,http://117.86.48.47:7777/rtp/239.49.8.38:8000
-广东卫视4K,http://117.86.48.47:7777/rtp/239.49.1.26:8000
-广东卫视4K,http://117.86.48.47:7777/rtp/239.49.1.24:8000
-湖南卫视4K,http://117.86.48.47:7777/rtp/239.49.1.68:8000
-欢笑剧场4K,http://117.86.48.47:7777/rtp/239.49.8.106:8000
-江苏卫视4K,http://117.86.48.47:7777/rtp/239.49.1.61:8000
-江苏卫视4K,http://117.86.48.47:7777/rtp/239.49.8.82:8000
-江苏卫视4K,http://117.86.48.47:7777/rtp/239.49.1.62:8000
-山东卫视4K,http://117.86.48.47:7777/rtp/239.49.1.72:8000
-深圳卫视4K,http://117.86.48.47:7777/rtp/239.49.1.28:8000
-深圳卫视4K,http://117.86.48.47:7777/rtp/239.49.1.27:8000
-四川卫视4K,http://117.86.48.47:7777/rtp/239.49.1.66:8000
-浙江卫视4K,http://117.86.48.47:7777/rtp/239.49.1.64:8000
+湖南4K,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
