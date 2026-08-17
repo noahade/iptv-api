@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-16 23:15:53,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+2026-08-17 23:18:03,url
 
 央视频道,#genre#
 
 北京,#genre#
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 
 各地卫视,#genre#
 
