@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2026-10-08 04:19:15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-10-09 04:21:23,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
-CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1,http://173.208.212.130:8181/720p/cctv1.m3u8
+CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
-CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
+CCTV-2,http://173.208.234.146/live/cctv2.m3u8
 CCTV-2,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
@@ -20,23 +20,22 @@ CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
 CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4,http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV-5,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV-5,http://173.208.234.146/live/cctv5p.m3u8
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 CCTV-5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
-CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
 CCTV-6,http://173.208.212.130:8181/1080p/cctv6.m3u8
+CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-7,http://192.151.150.154/live/cctv7hd.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
@@ -65,13 +64,13 @@ CCTV-13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
-CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-14,http://173.208.212.130:8181/1080p/cctv14.m3u8
+CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
 CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
-CCTV-15,http://198.204.228.26/live/cctv15hd.m3u8
 CCTV-15,http://173.208.212.130:8181/1080p/cctv15.m3u8
+CCTV-15,http://198.204.228.26/live/cctv15hd.m3u8
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
@@ -84,8 +83,10 @@ CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 
 北京,#genre#
 北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8
 北京卫视4K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+北京卫视4K,http://107.150.60.122/live/bjwshd.m3u8
 北京卫视4K,http://120.211.62.180:8000/hls/35/index.m3u8
 北京影视,http://45.192.97.170:8880/play/6339.m3u8
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
@@ -93,6 +94,7 @@ CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 各地卫视,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
+广东卫视,http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
@@ -109,7 +111,6 @@ CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
 安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
 安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
-安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
@@ -128,6 +129,7 @@ CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
+贵州卫视,http://58.56.162.102:4466/newlive/live/hls/41/live.m3u8
 海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
 河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
@@ -142,7 +144,6 @@ CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
 辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
-辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
@@ -154,8 +155,8 @@ CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://192.151.150.154/live/sdwshd.m3u8
 山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
+山东卫视,http://192.151.150.154/live/sdwshd.m3u8
 山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
